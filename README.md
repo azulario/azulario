@@ -36,10 +36,3 @@ Atualmente estou em transição para a área de **tecnologia**, estudando Análi
 ## 🚧 Projetos em Destaque
 - 🎨 [**Landing Page Tattoo**](https://azulario.github.io) – Site pessoal da minha marca de tattoo.
 - 📖 [**Pokédex**](https://github.com/azulario/pokedex) – Aplicação web interativa inspirada em Pokémon;
-
----
-
-## 📊 Estatísticas do GitHub
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azulario&layout=compact&theme=radical)
-
-![Nathalia's GitHub stats](https://github-readme-stats.vercel.app/api?username=azulario&show_icons=true&theme=radical)
