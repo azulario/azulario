@@ -11,11 +11,9 @@ Atualmente estou em transição para a área de **tecnologia**, estudando Análi
 
 ---
 
-##  ⭐ Sobre mim
+##  Sobre mim
 - 🎨 **Artista visual e tatuadora há 9 anos**, especializada em trabalhos coloridos;
 - 💻 Estudante de **Análise e Desenvolvimento de Sistemas**;
-- 🚀 Participando do programa **Acelera ZG** para estágio como desenvolvedora fullstack;
-- 🕹️ Apaixonada por **games, literatura, cultura geek e otaku**;
 - 📌 Principais áreas de interesse: **Front End, UX/UI, Java, Groovy, Web Design e Aplicações Web**.
 
 ---
